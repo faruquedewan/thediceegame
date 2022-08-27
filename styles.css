@@ -1,0 +1,29 @@
+body{
+  text-align: center;
+  background-color: #2C3639;
+  font-family: 'Aboreto', cursive;
+  color: #fff;
+}
+
+h1{
+  font-size: 6rem;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 2rem;
+  font-variant: small-caps;
+}
+
+.dice-div-parent{
+  margin: auto 20%;
+}
+
+.dice-div{
+  width: 50%;
+  float: left;
+}
+
+.dice-img{
+  width: 45%;
+}
